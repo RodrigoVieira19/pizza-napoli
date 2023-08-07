@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/pizza-napoli/static/css/main.fa7aef24.css",
+    "main.js": "/pizza-napoli/static/js/main.6384400e.js",
+    "static/media/background.jpg": "/pizza-napoli/static/media/background.e9c054301a3621124cca.jpg",
+    "index.html": "/pizza-napoli/index.html",
+    "main.fa7aef24.css.map": "/pizza-napoli/static/css/main.fa7aef24.css.map",
+    "main.6384400e.js.map": "/pizza-napoli/static/js/main.6384400e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fa7aef24.css",
+    "static/js/main.6384400e.js"
+  ]
+}
